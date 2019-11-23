@@ -2,7 +2,7 @@ import os
 #Comprar un pasaje
 
 #declaracion de variables
-nombre,apellido,destino,edad="","","",0
+nombre,apellido,destino,edad="","","",0.0
 
 #input
 nombre=os.sys.argv[1]

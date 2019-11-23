@@ -19,7 +19,7 @@ for letra in MSG:
     if letra == "C":
         print("La otra semana te visitare")
     if letra == "O":
-        print("PAra Jugar futbol")
+        print("Para Jugar futbol")
 
 #fin_iteration
 print("/n")
